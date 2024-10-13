@@ -1,0 +1,49 @@
+2024-10-07 15:31:57.042280 [info] : ========== Server init ==========
+2024-10-07 15:31:57.042297 [info] : Port:1400, OpenLinger: false
+2024-10-07 15:31:57.042304 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 15:31:57.042310 [info] : LogSys level: 1
+2024-10-07 15:31:57.042315 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/webserver_project/resources/
+2024-10-07 15:31:57.042320 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 15:31:57.042325 [info] : ========== Server start ==========
+2024-10-07 18:06:47.786739 [info] : ========== Server init ==========
+2024-10-07 18:06:47.786780 [info] : Port:1400, OpenLinger: false
+2024-10-07 18:06:47.786792 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:06:47.786801 [info] : LogSys level: 1
+2024-10-07 18:06:47.786811 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:06:47.786819 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:06:47.786831 [info] : ========== Server start ==========
+2024-10-07 18:10:17.729813 [info] : ========== Server init ==========
+2024-10-07 18:10:17.729828 [info] : Port:1400, OpenLinger: false
+2024-10-07 18:10:17.729832 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:10:17.729835 [info] : LogSys level: 1
+2024-10-07 18:10:17.729838 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:10:17.729841 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:10:17.729844 [info] : ========== Server start ==========
+2024-10-07 18:15:08.872902 [info] : ========== Server init ==========
+2024-10-07 18:15:08.872916 [info] : Port:1316, OpenLinger: false
+2024-10-07 18:15:08.872920 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:15:08.872923 [info] : LogSys level: 1
+2024-10-07 18:15:08.872926 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:15:08.872929 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:15:08.872931 [info] : ========== Server start ==========
+2024-10-07 18:16:58.691443 [info] : ========== Server init ==========
+2024-10-07 18:16:58.691461 [info] : Port:1316, OpenLinger: false
+2024-10-07 18:16:58.691466 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:16:58.691470 [info] : LogSys level: 1
+2024-10-07 18:16:58.691474 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:16:58.691477 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:16:58.691481 [info] : ========== Server start ==========
+2024-10-07 18:28:03.668379 [info] : ========== Server init ==========
+2024-10-07 18:28:03.668431 [info] : Port:1316, OpenLinger: false
+2024-10-07 18:28:03.668446 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:28:03.668457 [info] : LogSys level: 1
+2024-10-07 18:28:03.668468 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:28:03.668479 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:28:03.668490 [info] : ========== Server start ==========
+2024-10-07 18:28:22.630622 [info] : ========== Server init ==========
+2024-10-07 18:28:22.630642 [info] : Port:1316, OpenLinger: false
+2024-10-07 18:28:22.630655 [info] : Listen Mode: ET,OpenConn Mode: ET
+2024-10-07 18:28:22.630662 [info] : LogSys level: 1
+2024-10-07 18:28:22.630668 [info] : srcDir: /home/carry6/LS_project/remot_linux/C++/resources/
+2024-10-07 18:28:22.630674 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-07 18:28:22.630679 [info] : ========== Server start ==========
